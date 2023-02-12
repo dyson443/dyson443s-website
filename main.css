@@ -1,0 +1,30 @@
+.what {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    color: white
+  }
+
+body {
+  background-image: url("public/cat.webp");
+  height: 100vh;
+}
+
+.epic-div {
+  background-color: rgba(10, 10, 10, 1);
+  min-width: 500px;
+  width: 60%;
+  height: 100%;
+  position: absolute;
+  top: 50px;
+  left: 20%;
+  right: 20%;
+  bottom: 50px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 50%;
+}
